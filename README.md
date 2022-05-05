@@ -9,7 +9,5 @@
 ## My social networks
 - tg: @erypol
 - ds: sorisp#9098
-## What i do now?
-
 
 That is all.
