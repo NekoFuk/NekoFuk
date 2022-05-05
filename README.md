@@ -10,7 +10,6 @@
 - tg: @erypol
 - ds: sorisp#9098
 ## What i do now?
-Now i developer in [LumiOS](https://t.me/lumiOschat)
 
 
 That is all.
